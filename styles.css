@@ -8,4 +8,9 @@ p {
     
 li {
     color: green;
+    font-weight: bold;
+}
+
+li em {
+  color: red;
 }
