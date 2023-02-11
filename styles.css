@@ -6,3 +6,6 @@ p {
     color:blue;
 }
     
+p, li {
+    color: green;
+}
